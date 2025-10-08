@@ -1,3 +1,55 @@
+# 🎥 Movie Recommendation System
+
+## 💡 Overview
+A recommendation system that suggests movies to users based on similarities between movie features and user preferences.  
+This project demonstrates **collaborative filtering** and **content-based recommendation** techniques.
+
+## 🧠 Objective
+To recommend movies that users are likely to enjoy based on their ratings and viewing history.
+
+## 🧰 Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Cosine Similarity  
+
+## ⚙️ How It Works
+1. Load the MovieLens dataset (users, ratings, and movies).  
+2. Clean and preprocess the data.  
+3. Build a **similarity matrix** using cosine similarity between movies.  
+4. For a given movie, retrieve the top N most similar movies.  
+
+## 📊 Results
+- The model accurately recommends movies based on similarity of genres and ratings.  
+- Demonstrates both collaborative and content-based recommendation logic.  
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saramohamed-d/Movie-Recommendation.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 SUMMARY & USAGE LICENSE
 =============================================
 
